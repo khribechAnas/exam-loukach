@@ -1,0 +1,62 @@
+1. What does Node.js primarily use the V8 JavaScript engine for:
+Reponse:
+    - a) Compiling JavaScript to machine code
+2. In Express.js, how are static files like HTML, CSS, and JavaScript served:
+Response:
+    - b) By manually sending files in response to requests
+3. Which of the following best describes an API:
+Reponse:
+    - a) A database management tool
+4. What is NPM in the context of Node.js:
+Reponse:
+   - c) A package manager
+5. What does the `listen` method do in an Express.js application:
+Reponse:
+    - b) Connects to a database
+6. Which HTTP method is idempotent and used to update resources in a RESTful API:
+Reponse:
+    - c) PUT
+7. How does the Node.js event loop handle asynchronous operations:
+Reponse:
+    - b) Through multi-threading
+8. What is middleware in the context of Express.js:
+Reponse:
+    - b) Functions executed sequentially during the request-response cycle
+9. In MongoDB, what is a 'document':
+Reponse:
+    - b) A data record in a collection, similar in format to JSON
+10. What is an advantage of using asynchronous code in Node.js:
+Reponse:
+    - a) It makes code execution faster
+    - b) It allows handling multiple operations in the background
+11. In Express.js, what is the purpose of the `next` function in error-handling middleware:
+Reponse:
+    - a) To skip to the next route
+    - c) To forward an error to the next error-handling middleware
+12. How does the `express.Router` class enhance the modularity of an application:
+Reponse:
+    - a) By allowing separate route handlers in different files
+13. What does the term "non-blocking I/O" in Node.js refer to:
+Reponse:
+    - c) Locking the event loop during I/O operations
+14. When using MongoDB with Node.js, what role does Mongoose play:
+Reponse:
+    - c) It is a schema-based ODM for MongoDB
+15. In RESTful API design, what is the primary characteristic of a stateless protocol:
+Reponse:
+    - c) The server maintains a continuous connection with the client
+16. What is the main function of the Node.js `cluster` module:
+Reponse:
+    - a) Managing database clusters
+17. How do Promises in JavaScript improve handling of asynchronous operations:
+Reponse:
+    - c) By offering a more structured approach than callbacks
+18. In Express.js, how is the `app.use()` function typically utilized:
+Reponse:
+    - c) To create new instances of the application
+19. What is the significance of JWT in building secure web applications:
+Reponse:
+    - b) It provides a mechanism for secure data transmission between client and server
+20. In MongoDB, what is the purpose of using an index:
+Reponse:
+    - d) To encrypt sensitive data in documents
